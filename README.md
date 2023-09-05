@@ -2,7 +2,7 @@
 
 <h2>Hi. I'm Jess, an IT Professional and Web Developer</h2>
 
-<h4>I've been working on some IT projects. Feel free to check them out!</h4>
+<h3>I've been working on some IT projects. Feel free to check them out!</h3>
 
 <!--
 **thegreencode/thegreencode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
